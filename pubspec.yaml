@@ -39,6 +39,7 @@ dependencies:
   flutter_stripe: ^7.0.0
   http:
   get:
+  flutter_paypal: ^0.0.8
 
 dev_dependencies:
   flutter_test:
