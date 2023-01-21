@@ -22,6 +22,7 @@ class MyApp extends StatelessWidget {
       title: 'Strip Payment',
       theme: ThemeData(
         primarySwatch: Colors.blue,
+        useMaterial3: true,
       ),
       home: const PaypalScreen(),
     );
